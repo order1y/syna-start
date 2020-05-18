@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Orderly"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.0"
@@ -22,8 +22,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Orderly"
+  description = "Create order in your documents"
 
   [params.style]
     #background = "secondary"
