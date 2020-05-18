@@ -16,6 +16,15 @@ subtitle = "A new look \n at searching in documents"
   image = "logo.svg"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
+
+[[buttons]] 
+  text = "Button" 
+  url = "#" 
+  color = "success"
+
+[[buttons]] 
+  text = "Button" 
+  url = "#" 
+  color = "success"
   
-[[buttons]] text = "Button" url = "#" color = "success" 
 +++
