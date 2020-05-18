@@ -1,11 +1,11 @@
 +++
 fragment = "footer"
 #disabled = true
-date = "2016-09-07"
+date = "2020-05-15"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Work with us"
 
 [asset]
   title = "Logo Title"
@@ -14,8 +14,6 @@ menu_title = "Link Title"
   url = "#"
 +++
 
-#### Description Title
+#### Orderly
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+New way of looking at document structure
