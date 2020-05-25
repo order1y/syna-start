@@ -13,7 +13,7 @@ subtitle = "A new look \n at searching in documents"
   image = "header.jpg"
 
 [asset]
-  image = "logo.png"
+  image = "log2.png"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 

@@ -9,5 +9,6 @@ weight = 0
 # Branding options
 [asset]
   image = "log2.png"
+  width = "100px"
   text = "Orderly"
 +++
