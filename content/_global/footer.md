@@ -5,7 +5,7 @@ date = "2020-05-15"
 weight = 1200
 #background = ""
 
-menu_title = "Work with us"
+
 
 [asset]
   title = "Logo Title"

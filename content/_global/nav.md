@@ -2,12 +2,12 @@
 fragment = "nav"
 #disabled = true
 date = "2020-05-15"
-weight = 200
+weight = 0
 #background = ""
 
 
 # Branding options
 [asset]
-  image = "logo.png"
+  image = "log2.png"
   text = "Orderly"
 +++
