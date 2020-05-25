@@ -18,13 +18,8 @@ subtitle = "A new look \n at searching in documents"
   #height = "150px" # optional - will default to image height
 
 [[buttons]] 
-  text = "Button" 
+  text = "Contact us" 
   url = "#" 
   color = "success"
 
-[[buttons]] 
-  text = "Button" 
-  url = "#" 
-  color = "success"
-  
 +++
