@@ -11,7 +11,7 @@ subtitle  = "leave us your message"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
+email = "ord3r1y@protonmail.ch"
 button = "Send Button" # defaults to theme default
 #netlify = false
 
