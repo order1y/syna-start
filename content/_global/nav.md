@@ -7,8 +7,8 @@ weight = 0
 
 
 # Branding options
-[asset]
+<!-- [asset]
   image = "log2.png"
   width = "100px"
-  text = "Orderly"
+  text = "Orderly" -->
 +++
