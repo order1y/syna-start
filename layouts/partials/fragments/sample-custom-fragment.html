@@ -1,4 +1,4 @@
-{{- $fragment := .self.Params -}}
+{{- $fragment := .self.Params -}} 
 {{- $name := strings.TrimSuffix ".md" (replace .self.Name "/index.md" "") -}}
 {{- $bg := $fragment.background | default "secondary" }}
 <section id="{{ $name }}">

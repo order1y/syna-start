@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Orderly"
 theme = "syna"
 enableGitInfo = true
-version = "0.17.0"
+version = "0.17.2"
 
 # Google Analytics tracking
 googleAnalytics = ""
