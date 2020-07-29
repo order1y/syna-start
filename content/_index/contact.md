@@ -7,7 +7,7 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Contact us"
-subtitle  = "Call 8-701-529-0670 or leave us your message"
+subtitle  = "Call 8(701)5290670 or leave us your message"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
