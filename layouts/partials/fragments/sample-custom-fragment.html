@@ -1,6 +1,7 @@
 {{- $fragment := .self.Params -}} 
 {{- $name := strings.TrimSuffix ".md" (replace .self.Name "/index.md" "") -}}
 {{- $bg := $fragment.background | default "secondary" }}
+<meta name="yandex-verification" content="4ce3351dc914136d" />
 <section id="{{ $name }}">
   <div class="overlay container-fluid
     {{- printf " bg-%s" $bg -}}
