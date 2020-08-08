@@ -7,11 +7,11 @@ weight = 1100
 form_name = "defaultContact"
 
 title = "Contact us"
-subtitle  = "Call 8(701)5290670 or leave us your message at ord3r1y@protonmail.ch"
+subtitle  = "Call 8(701)5290670 or leave us your message at info@orderly.work"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
-email = "ord3r1y@protonmail.ch"
+email = "info@orderly.work"
 button = "Send Button" # defaults to theme default
 #netlify = false
 
